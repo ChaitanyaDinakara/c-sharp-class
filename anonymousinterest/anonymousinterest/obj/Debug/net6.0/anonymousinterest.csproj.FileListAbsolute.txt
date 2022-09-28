@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\bin\Debug\net6.0\anonymousinterest.exe
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\bin\Debug\net6.0\anonymousinterest.deps.json
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\bin\Debug\net6.0\anonymousinterest.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\bin\Debug\net6.0\anonymousinterest.dll
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\bin\Debug\net6.0\anonymousinterest.pdb
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\anonymousinterest.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\anonymousinterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\anonymousinterest.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\anonymousinterest.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\anonymousinterest.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\anonymousinterest.dll
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\refint\anonymousinterest.dll
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\anonymousinterest.pdb
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\anonymousinterest.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\anonymousinterest\anonymousinterest\obj\Debug\net6.0\ref\anonymousinterest.dll
