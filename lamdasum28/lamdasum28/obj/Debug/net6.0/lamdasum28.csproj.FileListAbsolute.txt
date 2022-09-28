@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\bin\Debug\net6.0\lamdasum28.exe
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\bin\Debug\net6.0\lamdasum28.deps.json
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\bin\Debug\net6.0\lamdasum28.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\bin\Debug\net6.0\lamdasum28.dll
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\bin\Debug\net6.0\lamdasum28.pdb
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\lamdasum28.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\lamdasum28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\lamdasum28.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\lamdasum28.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\lamdasum28.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\lamdasum28.dll
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\refint\lamdasum28.dll
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\lamdasum28.pdb
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\lamdasum28.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\lamdasum28\lamdasum28\obj\Debug\net6.0\ref\lamdasum28.dll
