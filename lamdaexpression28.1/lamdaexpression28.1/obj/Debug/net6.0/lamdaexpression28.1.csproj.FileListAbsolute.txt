@@ -1,0 +1,15 @@
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\bin\Debug\net6.0\lamdaexpression28.1.exe
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\bin\Debug\net6.0\lamdaexpression28.1.deps.json
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\bin\Debug\net6.0\lamdaexpression28.1.runtimeconfig.json
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\bin\Debug\net6.0\lamdaexpression28.1.dll
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\bin\Debug\net6.0\lamdaexpression28.1.pdb
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\lamdaexpression28.1.csproj.AssemblyReference.cache
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\lamdaexpression28.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\lamdaexpression28.1.AssemblyInfoInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\lamdaexpression28.1.AssemblyInfo.cs
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\lamdaexpression28.1.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\lamdaexpression28.1.dll
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\refint\lamdaexpression28.1.dll
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\lamdaexpression28.1.pdb
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\lamdaexpression28.1.genruntimeconfig.cache
+C:\Users\chaitanya.dinakara\source\repos\lamdaexpression28.1\lamdaexpression28.1\obj\Debug\net6.0\ref\lamdaexpression28.1.dll
